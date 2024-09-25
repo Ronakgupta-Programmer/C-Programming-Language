@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
+#define M_PI 3.14159265358979323846
 
 // Function to calculate Fibonacci sequence
 void fibonacci(int n, int* fib_sequence) {
