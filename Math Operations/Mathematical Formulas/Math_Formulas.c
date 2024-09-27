@@ -288,9 +288,9 @@ int main() {
     printf("31. Combinations\n");
     printf("32. Pythagorean Theorem\n");
     printf("33. Surface Area and Volume of Cylinder\n");
-    
+
     scanf("%d", &choice);
-    
+
     if (choice == 1) {
         int n;
         printf("Enter the number of Fibonacci terms: ");
@@ -619,6 +619,6 @@ int main() {
     } else {
         printf("Invalid choice. Please select a number between 1 and 33.\n");
     }
-    
+
     return 0;
 }
